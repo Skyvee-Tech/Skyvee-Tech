@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greshya</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyvee-tech&label=Profile%20views&color=424242&style=flat" alt="skyvee-tech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=skyvee-tech&label=Profile%20views&color=424242&style=flat" alt="skyvee-tech" /> </p>
 
 - 🌱 I’m currently learning **Powershell**
 
