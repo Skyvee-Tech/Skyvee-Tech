@@ -46,6 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+
+  ![snake gif](https://github.com/Skyvee-Tech/Skyvee-Tech/blob/output/github-snake-dark.svg)
+
 </div>
 
 ###
