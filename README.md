@@ -1,5 +1,5 @@
 <h1 align="center">Hi World! I'm Greshya Fharel Ibrahim</h1>
-<h3 align="center">A passionate Tech developer from Indonesia</h3>
+<h3 align="center">obsessed with how things work under the hood</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyvee-tech&label=Profile%20views&color=424242&style=flat" alt="skyvee-tech" /> </p>
 
