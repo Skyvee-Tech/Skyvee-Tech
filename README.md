@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=skyvee-tech&label=Profile%20views&color=424242&style=flat" alt="skyvee-tech" /> </p>
 
-- 💻 **Teknik Informatika student | forever curious about tech**
+- 💻 **> passion: technology | status: always_learning**
 
 - 📫 How to reach me **ibrahimgreshyafharel@gmail.com**
 
